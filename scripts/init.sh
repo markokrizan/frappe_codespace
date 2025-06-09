@@ -13,8 +13,10 @@ source /home/frappe/.nvm/nvm.sh
 nvm install 18
 nvm alias default 18
 nvm use 18
-
 echo "nvm use 18" >> ~/.bashrc
+
+npm install --global yarn
+
 cd /workspace
 
 bench init \
