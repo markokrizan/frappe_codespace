@@ -31,8 +31,6 @@ admin
 ```
 
 ## Development:
-```
-Administrator
-admin
-```
-
+- Python changes will be visible imediately
+- Front end changes
+   - If a site uses a separate front end (compatible with frappe-15) enter the `frontend` directory and run the dev server, for ex. `yarn dev`
