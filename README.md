@@ -21,9 +21,18 @@ A config for a development environment for frappe based apps using the github co
    ```
    bench start
    ```
+4. Access the live site from the `ports` section by clicking on the web icon
+
 
 ## Default credentials:
 ```
 Administrator
 admin
 ```
+
+## Development:
+```
+Administrator
+admin
+```
+
